@@ -1,6 +1,6 @@
 Name:		texlive-halloweenmath
 Version:	52602
-Release:	1
+Release:	2
 Summary:	Scary and creepy math symbols with AMS-LaTeX integration
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/halloweenmath
