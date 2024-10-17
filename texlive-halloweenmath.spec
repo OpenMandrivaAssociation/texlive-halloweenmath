@@ -3,7 +3,7 @@ Version:	52602
 Release:	2
 Summary:	Scary and creepy math symbols with AMS-LaTeX integration
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/halloweenmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/halloweenmath
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/halloweenmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/halloweenmath.doc.r%{version}.tar.xz
